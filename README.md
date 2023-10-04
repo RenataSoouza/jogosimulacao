@@ -10,7 +10,7 @@
 Este projeto tem como objetivo criar um site temático inspirado no universo do Mario, utilizando um menu hambúrguer como elemento de navegação.
 
 ### ❗Desafio
-O desafio consistiu em criar um site temático inspirado no universo do Mario, utilizando um menu hambúrguer e garantindo a responsividade do site.
+O desafio consistiu em criar um site temático inspirado no universo do Mario, utilizando um menu hambúrguer, o conceito do DOM (Modelo de Objeto de Documento) e garantindo a responsividade do site.
 
 ### ⭐ Resultado alcançados
 
